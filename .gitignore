@@ -6,3 +6,8 @@ models/*
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+
+mlruns/
+
+mlruns/
+mlflow.db
